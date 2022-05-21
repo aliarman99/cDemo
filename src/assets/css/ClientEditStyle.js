@@ -1,0 +1,51 @@
+const styles = {
+    container: { display: "flex", flexDirection: "column" },
+    formContainer: {
+      backgroundColor: "#F4F7FC",
+      justifyContent: "center",
+      flexDirection: "column",
+      alignItems: "center",
+      borderColor: "red",
+      marginTop: "50px",
+      borderRadius: "10px",
+      marginBottom: "20px",
+      paddingBottom: "30px",
+      alignSelf: "center",
+      marginLeft: "20px",
+      marginRight: "20px",
+    },
+    headingText: {
+      fontFamily: "sans-serif",
+      marginBottom: "50px",
+      marginTop: "30px",
+      alignSelf: "center",
+    },
+    avatarBox: {
+      marginBottom: "20px",
+      height: "130px",
+      width: "130px",
+      borderRadius: "65px",
+    },
+    label: {
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      borderRadius: "65px",
+      borderWidth: "2px",
+      backgroundColor: "#D7DBDD",
+      marginBottom: "20px",
+      width: "130px",
+      height: "130px",
+      cursor: "pointer",
+      alignSelf: "center",
+    },
+    input: {
+      fontFamily: "sans-serif",
+      backgroundColor: "white",
+      fontWeight: "normal",
+    },
+    formBox: {
+      fontFamily: "sans-serif",
+    },
+  };
+export default styles

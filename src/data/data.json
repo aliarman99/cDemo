@@ -1,0 +1,107 @@
+{
+    "Header": {
+
+        "title": "We Provide Best Services",
+        "paragraph": "We know it's difficult to get someone who can fix your appliances, your kitchen or even shower. But don't worry we have a solution for your problems. If you are looking for someone register now"
+
+    },
+    "About": {
+        "paragraph": "Even in modern era it's difficult to get good worker and a good job if you are skilled, so we came up with the idea of providing solution for both client and worker",
+        "Why": [
+            "You can work as an Electrian",
+            "You can work as a Carpenter",
+            "You can work as an Plumber",
+            "You can make more networks"
+        ],
+        "Why2": [
+            "You can fix your home",
+            "You can find worker of your choice",
+            "We take care of your privacy",
+            "You can talk to your worker"
+        ]
+    },
+    "Services": [{
+            "class": "electrician",
+            "url":"https://thecc.org.uk/wp-content/uploads/2020/06/Electrician-works.jpg",
+            "name": "Electrician",
+            "text": "I can fix your electroic appliances"
+        },
+        {
+            "class": "carpenter",
+            "url":"https://www.ashtoncollege.ca/wp-content/uploads/2019/10/he-is-the-best-carpenter-in-town-57J6J4Y-1024x683.jpg",
+            "name": "Carpenter",
+            "text": "I can fix your Kitchen and can make a good furniture"
+        },
+        {
+            "class": "plumber",
+            "url":"https://vermeulenrenovations.co.za/wp-content/uploads/Plumber-Kraaifontein.jpg",
+            "name": "Plumber",
+            "text": "I can fix your water lines, showers and much more"
+        }
+       
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+        "img": "img/team/01.jpg",
+        "job": "Folio3 Internee",
+        "name": "Shoukat Ali"
+    },
+    {
+        "img": "img/team/02.jpg",
+        "job": "Folio3 Internee",
+        "name": "Ainy Khan"
+    }
+    ,
+    {
+        "img": "img/team/03.jpg",
+        "job": "Folio3 Internee",
+        "name": "Junaid Khan"
+    }
+    ,
+    {
+        "img": "img/team/04.jpg",
+        "job": "Folio3 Internee",
+        "name": "Sameen Khan"
+    }
+    ],
+    "Contact": {
+        "address": "Shahrah e Faisal PCHS Karachi ",
+        "phone": "+1 123 456 1234",
+        "email": "info@sahoolat.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
